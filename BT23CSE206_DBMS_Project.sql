@@ -1,0 +1,1 @@
+SELECT * FROM mess_management.students;
